@@ -1,0 +1,22 @@
+{
+  "name": "hdr-images",
+  "version": "0.0.1",
+  "description": "Identify chromatic centroids",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/docida/HDR-Images.git"
+  },
+  "keywords": [
+    "tiff"
+  ],
+  "author": "Ida Bernstein, Chris Wilson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/docida/HDR-Images/issues"
+  },
+  "homepage": "https://github.com/docida/HDR-Images#readme"
+}
