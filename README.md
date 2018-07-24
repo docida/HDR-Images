@@ -1,5 +1,8 @@
 # HDR Image Recognition
 
+## References
++ [TIF format](http://dev.exiv2.org/projects/exiv2/wiki/The_Metadata_in_TIFF_files)
+
 ## Setup
 When you [install Python](https://www.python.org/getit/), be sure to check "Add Python 3.x to PATH" so that you can run Python from the terminal. This will also install `pip`, the package management tool for Python that makes it easy to install libraries.
 
